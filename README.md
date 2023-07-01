@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Complete the web development course - Programming Hero. Jan-2023 - present**
 
-- 👯 I’m looking to collaborate on [Toy marketplace](https://assignment-11-705cf.web.app/)
+- 👯 I’m looking to collaborate  [Toy marketplace](https://assignment-11-705cf.web.app/)
 
 - 🤝 I’m looking for help with [Chef Recipe](https://assignment-10-clinet-site.web.app/)
 
